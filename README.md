@@ -1,0 +1,1 @@
+- Hello everyone, I intend to study computer engineering, but until then I'm studying the frameworks that caught my attention
