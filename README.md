@@ -1,6 +1,6 @@
 # Olá, eu sou Wesley Queiroz! 👋  
 
-Tenho 17 anos e estou cursando Engenharia de Software na Uninter. Atualmente, estou focado no desenvolvimento front-end, com ênfase na integração com o back-end.  
+Tenho 18 anos e estou cursando Engenharia de Software na Uninter. Atualmente, estou focado no desenvolvimento front-end, com ênfase na integração com o back-end.  
 
 Ao longo da minha jornada, compartilharei minhas experiências e aprendizados do curso no meu canal do YouTube: [WesleyDev](https://www.youtube.com/@wesleydev).  
 
