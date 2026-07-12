@@ -1,6 +1,6 @@
 # Olá, sou Wesley Queiroz! 👋
 
-Tenho 18 anos e, atualmente:
+Tenho 19 anos e, atualmente:
 
 * Curso **Engenharia de Software** na Uninter.
 * Estudo desenvolvimento com NodeJS(React + Electron) e Python para criação de WebApps.
