@@ -19,8 +19,3 @@ Assistente pessoal local-first, focada em privacidade: roda inteiramente no comp
 ### Fortscript
 Pacote Python que pausa automaticamente seus scripts (bots, APIs, executáveis) quando você abre um jogo ou app pesado, e retoma quando fecha. Publicado no PyPI.
 🔗 [github.com/WesleyQDev/fortscript](https://github.com/WesleyQDev/fortscript)
-
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/wesley-queiroz-200215356/)
-- [YouTube — WesleyDev](https://www.youtube.com/@wesleydev)
